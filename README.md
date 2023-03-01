@@ -1,4 +1,4 @@
-### Hi there 👋
+<img src="https://images.pexels.com/photos/268533/pexels-photo-268533.jpeg?cs=srgb&dl=pexels-pixabay-268533.jpg&fm=jpg">
 
 <!--
 **rafaelsorgato/rafaelsorgato** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
