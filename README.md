@@ -1,4 +1,4 @@
-<img position=absolute width=100% src="https://capsule-render.vercel.app/api?type=waving&color=blackheight=120&section=header"/>
+<img position=absolute width=100% src="https://capsule-render.vercel.app/api?type=waving&color=88E0FF&height=120&section=header"/>
 
 
 Languages:
@@ -20,4 +20,5 @@ Languages:
 
 
 
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=black&height=120&section=footer"/>
+
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=88E0FF&height=120&section=footer"/>
