@@ -7,7 +7,9 @@ My Projects:
 
 1- https://github.com/rafaelsorgato/BrowserHistory <img width=30px src="https://thumbs.gfycat.com/HalfInconsequentialBasenji-size_restricted.gif"> <img width=50px src="https://www.pngmart.com/files/16/Browser-PNG-Photos.png">
 
-2- https://github.com/rafaelsorgato/ExchangePhishing <img width=30px src="https://thumbs.gfycat.com/IncompatibleVibrantFieldmouse-max-1mb.gif">
+2- https://github.com/rafaelsorgato/ExchangePhishing <img width=30px src="https://monophy.com/media/Qwn5W4bjQjNuLczutC/monophy.gif">
+
+2- https://github.com/rafaelsorgato/trendmicro-emailsecurity-api-python <img width=30px src="https://thumbs.gfycat.com/IncompatibleVibrantFieldmouse-max-1mb.gif">
 
 <br><br>
 
