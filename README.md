@@ -11,6 +11,8 @@ My Projects:
 
 3- https://github.com/rafaelsorgato/trendmicro-emailsecurity-api-python <img width=30px src="https://thumbs.gfycat.com/IncompatibleVibrantFieldmouse-max-1mb.gif">
 
+4-https://github.com/rafaelsorgato/remove-passeidireto-blur  <img width=30px src="https://media3.giphy.com/media/Z3ZrZyse0xFjmtYQYO/giphy.gif">
+
 <br><br>
 
 Languages:
