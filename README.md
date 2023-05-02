@@ -28,7 +28,7 @@ Languages:
 
 <div align="center"> 
 <a href="https://www.linkedin.com/in/rafaelsorgato/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" style="border-radius: 30px" target="_blank"></a> 
-  <img src="https://visitor-counter-badge.vercel.app/api/rafaelsorgato/visitor-counter-badge?label=Visitors&color=black&labelColor=orange"> <img width=30px src="https://thumbs.gfycat.com/AggravatingSameHarborseal-size_restricted.gif">
+<img width=30px src="https://thumbs.gfycat.com/AggravatingSameHarborseal-size_restricted.gif">
  </div>
 
 
