@@ -1,5 +1,4 @@
-![Header](./icons/github-header-image.png)
-
+<img src="https://github.com/rafaelsorgato/rafaelsorgato/blob/main/icons/github-header-image.png" width="100%" >
 Some technologies:
 
 <p align='left'>
