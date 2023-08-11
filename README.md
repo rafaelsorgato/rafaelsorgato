@@ -23,6 +23,6 @@ Some technologies:
 Some work:<br><br>
 <a href="https://github.com/rafaelsorgato/Email_security">Web program to detect words/regex in emails and quarantine/deleted it.</a>
 <br>
-<img src="https://github.com/rafaelsorgato/images_videos_of_my_projects/blob/main/videos/email_security4.gif" width="500" heigth="500">
+<img src="https://github.com/rafaelsorgato/images_videos_of_my_projects/blob/main/videos/email_security4.gif" width="800" heigth="800">
 
 
