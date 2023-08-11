@@ -1,4 +1,9 @@
 <img src="https://github.com/rafaelsorgato/rafaelsorgato/blob/main/icons/github-header-image.png" width="100%" >
+<div align="center"> 
+<a href="https://www.linkedin.com/in/rafaelsorgato/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" style="border-radius: 30px" target="_blank"></a> 
+<img width=30px src="https://thumbs.gfycat.com/AggravatingSameHarborseal-size_restricted.gif">
+ </div>
+
 Some technologies:
 
 <p align='left'>
@@ -16,8 +21,5 @@ Some technologies:
 
 
 
-<div align="center"> 
-<a href="https://www.linkedin.com/in/rafaelsorgato/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" style="border-radius: 30px" target="_blank"></a> 
-<img width=30px src="https://thumbs.gfycat.com/AggravatingSameHarborseal-size_restricted.gif">
- </div>
+
 
