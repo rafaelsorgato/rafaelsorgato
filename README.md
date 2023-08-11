@@ -1,28 +1,19 @@
-<img position=absolute width=100% src="https://capsule-render.vercel.app/api?type=waving&color=88E0FF&height=120&section=header"/>
+![Header](./icons/github-header-image.png)
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=88E0FF&size=35&center=true&vCenter=true&width=1000&lines=Hello,+i'm+Rafael+Sorgato(Brazil);Graduated+in+Computer+Engineering;Be+Welcome!+:%29)](https://git.io/typing-svg)
+Some technologies:
 
-<br><br>
-My Projects:
-
-1- https://github.com/rafaelsorgato/BrowserHistory <img width=30px src="https://thumbs.gfycat.com/HalfInconsequentialBasenji-size_restricted.gif"> <img width=50px src="https://www.pngmart.com/files/16/Browser-PNG-Photos.png">
-
-2- https://github.com/rafaelsorgato/ExchangePhishing <img width=30px src="https://monophy.com/media/Qwn5W4bjQjNuLczutC/monophy.gif">
-
-3- https://github.com/rafaelsorgato/trendmicro-emailsecurity-api-python <img width=30px src="https://thumbs.gfycat.com/IncompatibleVibrantFieldmouse-max-1mb.gif">
-
-4-https://github.com/rafaelsorgato/remove-passeidireto-blur  <img width=30px src="https://media3.giphy.com/media/Z3ZrZyse0xFjmtYQYO/giphy.gif">
-
-<br><br>
-
-Languages:
-
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"> <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white"> <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white">
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"> 
-
-<img src="https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white"> <img src="https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white">  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white">
-
-
+<p align='left'>
+<img src="https://github.com/rafaelsorgato/rafaelsorgato/blob/main/icons/programming%20languages/bash.svg" height="50" width="50" />
+<img src="https://github.com/rafaelsorgato/rafaelsorgato/blob/main/icons/programming%20languages/c%23.svg" height="50" width="50" /> 
+<img src="https://github.com/rafaelsorgato/rafaelsorgato/blob/main/icons/programming%20languages/c.svg" height="50" width="50" /> 
+<img src="https://github.com/rafaelsorgato/rafaelsorgato/blob/main/icons/programming%20languages/javascript.svg" height="50" width="50" /> 
+<img src="https://github.com/rafaelsorgato/rafaelsorgato/blob/main/icons/programming%20languages/php.png" height="50" width="50" /> 
+<img src="https://github.com/rafaelsorgato/rafaelsorgato/blob/main/icons/programming%20languages/python.svg" height="50" width="50" /> 
+<img src="https://github.com/rafaelsorgato/rafaelsorgato/blob/main/icons/databases/mysql.svg" height="50" width="50" /> 
+ <img src="https://github.com/rafaelsorgato/rafaelsorgato/blob/main/icons/others/html.svg" height="50" width="50" /> 
+ <img src="https://github.com/rafaelsorgato/rafaelsorgato/blob/main/icons/others/css.svg" height="50" width="50" /> 
+ <img src="https://github.com/rafaelsorgato/rafaelsorgato/blob/main/icons/others/json.svg" height="50" width="50" /> 
+</p>
 
 
 
@@ -31,8 +22,3 @@ Languages:
 <img width=30px src="https://thumbs.gfycat.com/AggravatingSameHarborseal-size_restricted.gif">
  </div>
 
-
-
-
-
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=88E0FF&height=120&section=footer"/>
