@@ -29,5 +29,5 @@ Some work:<br><br>
 <br>
 <img src="https://github.com/rafaelsorgato/images_videos_of_my_projects/blob/main/videos/browserhistory.gif" width="800" heigth="800">
 <br><br>
-<a href="https://github.com/rafaelsorgato/wpf_to_powershell">WPF GUI to powershell GUI converter</a>
+<a href="https://github.com/rafaelsorgato/wpf_to_powershell">WPF GUI converter for powershell GUI</a>
 <img src="https://github.com/rafaelsorgato/images_videos_of_my_projects/blob/main/videos/wpftopowershell.gif" width="800" heigth="800">
