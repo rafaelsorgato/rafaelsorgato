@@ -1,7 +1,7 @@
 <img src="https://github.com/rafaelsorgato/rafaelsorgato/blob/main/icons/github-header-image.png" width="100%" >
 <div align="center"> 
 <a href="https://www.linkedin.com/in/rafaelsorgato/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" style="border-radius: 30px" target="_blank"></a> 
-<img width=30px src="https://thumbs.gfycat.com/AggravatingSameHarborseal-size_restricted.gif">
+<img width=30px src="https://i.gifer.com/origin/d3/d393be702059edb7afb59c1ab0540936_w200.gif">
  </div>
 
 Some technologies:
