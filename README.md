@@ -29,5 +29,5 @@ Some technologies:
 <br>
 <div align="center"><img src="https://github.com/rafaelsorgato/images_videos_of_my_projects/blob/main/videos/browserhistory.gif" width="800" heigth="800"></div>
 <br><br>
-<h3 align="center"><a href="https://github.com/rafaelsorgato/wpf_to_powershell">WPF GUI converter for powershell GUI</a></h3>
+<h3 align="center"><a href="https://github.com/rafaelsorgato/wpf_to_powershell">WPF GUI converter to powershell GUI</a></h3>
 <div align="center"><img src="https://github.com/rafaelsorgato/images_videos_of_my_projects/blob/main/videos/wpftopowershell.gif" width="800" heigth="800"></div>
