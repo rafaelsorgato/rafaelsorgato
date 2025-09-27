@@ -27,7 +27,7 @@ Some technologies:
 <br><br>
 <h3 align="center"><a href="https://github.com/rafaelsorgato/gemini-fake-news">Gemini fakenews detector</a></h3>
 <br>
-<div align="center"><img  src="https://github.com/rafaelsorgato/gemini-fake-news/raw/main/tela.png" width="800" heigth="800"></div>
+<div align="center"><img  src="https://github.com/rafaelsorgato/gemini-fake-news/raw/main/lula.png" width="800" heigth="800"></div>
 <br><br>
 <h3 align="center"><a href="https://github.com/rafaelsorgato/Email_security">Web program to detect words/regex in emails and quarantine/deleted it.</a></h3>
 <br>
